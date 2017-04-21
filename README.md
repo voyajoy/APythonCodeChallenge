@@ -34,6 +34,8 @@ In order to be considered for this position, you must complete the following ste
 
 ### Problem
 
+**Also located in problem.py**
+
 Calendar Double Booking Conflicts
 
 At Voyajoy, each home that we manage is listed on multiple short-term rental platforms like Airbnb and VRBO/Homeaway. We put it on multiple rental platforms because it helps listings reach more potential renters. Listing on multiple platforms, however, is a problem because each platform maintains its own calendar that are not synced with each other which leads to potential double bookings. Because of that, we need a way to detect double bookings for each listing. Please develop an algorithm that takes calendar events from multiple calendars and return a list of conflicting events.
